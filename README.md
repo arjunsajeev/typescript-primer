@@ -1,6 +1,6 @@
 # Typescript Primer
 
-Condensed Typescript concepts with code examples
+Curated typescript code samples
 
 ## Primitives - string, number and boolean
 
